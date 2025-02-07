@@ -1,2 +1,3 @@
-coche 20000
-casa 4000
+coche 25000
+casa 3500
+segunda casa en la playa 1500
