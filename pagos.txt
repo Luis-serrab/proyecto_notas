@@ -1,0 +1,3 @@
+comido 300
+garaje 80
+ocio 150
